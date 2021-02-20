@@ -4,7 +4,7 @@ from .forms import StockForm
 from django.contrib import messages
 # publishable api key iexcloud
 #pk_88ffb99c220f41d59c63d5f609c1dfb1
-
+# Copyright (c) JKAshton February 2021 All Rights Reserved
 def home(request):	
 	import requests
 	import json
